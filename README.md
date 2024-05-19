@@ -7,6 +7,7 @@ Analysis of the hospital data for different business queries and their results (
 - department.csv : dep_no, dep_name.
 - employee.csv : emp_type, fname, lname, bdate, sex, date_of_join, date_of_resign
 - treatments_available.csv : treatment_id, dep_no, treatment_name, fees
+- queries.sql : SQL File with all the sql queries used.
 
 1) List All the Data From the Department Table
 ``` 

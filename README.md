@@ -1,9 +1,12 @@
 # medical-data-analysis
 Analysis of the hospital data for different business queries and their results (output) of Google Clouds BigQuery Platform, using appropriate SQL Commands.
+
+
 # File Description:
-department.csv : 
-employee.csv : 
-treatments_available.csv : 
+
+- department.csv : dep_no, dep_name.
+- employee.csv : emp_type, fname, lname, bdate, sex, date_of_join, date_of_resign
+- treatments_available.csv : treatment_id, dep_no, treatment_name, fees
 
 1) List All the Data From the Department Table
 ``` 

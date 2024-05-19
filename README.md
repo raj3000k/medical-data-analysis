@@ -1,7 +1,7 @@
 # medical-data-analysis
 Analysis of the hospital data for different business queries and their results (output) of Google Clouds BigQuery Platform, using appropriate SQL Commands.
 
-
+# Platforms : Google Cloud BigQuery
 # File Description:
 
 - department.csv : dep_no, dep_name.
